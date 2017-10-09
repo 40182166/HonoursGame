@@ -1,0 +1,7 @@
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\bin\Debug\Game.exe.config
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\bin\Debug\Game.exe
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\bin\Debug\Game.pdb
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.exe
+F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.pdb
