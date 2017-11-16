@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Game
 {
-    /*abstract */class Stats
+    class Stats
     {
         private int str = 0;
         private int agi = 0;
@@ -65,6 +65,7 @@ namespace Game
                 Stun_chance = str * 4.0f;
             }
         }
+
         public int AGI
         {
             get { return agi; }
@@ -116,7 +117,7 @@ namespace Game
         public float Base_phys_dmg
         {
             get => _base_phys_dmg;
-            set => _base_phys_dmg = value;
+            set => _base_phys_dmg = _phys_dmg;
         }
 
         public float Stun_chance

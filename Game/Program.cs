@@ -10,8 +10,8 @@ namespace Game
     {
         static void Main(string[] args)
         {
-            Stats stat = new Stats(Stats.mainStat.INT_MAIN);
-            stat.STR = 1;
+            Stats stat = new Stats(Stats.mainStat.STR_MAIN);
+            stat.STR = 5;
             stat.VIT = 10;
             stat.AGI = 5;
             stat.INT = 3;

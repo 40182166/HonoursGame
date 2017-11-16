@@ -5,3 +5,10 @@ F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.cspro
 F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
 F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.exe
 F:\Desktop\Università\Year 4\Honours\Game\HonoursGame\Game\obj\Debug\Game.pdb
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\bin\Debug\Game.exe.config
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\bin\Debug\Game.exe
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\bin\Debug\Game.pdb
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\obj\Debug\Game.exe
+C:\Users\40182166\Documents\GitHub\HonoursGame\Game\obj\Debug\Game.pdb
